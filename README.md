@@ -23,6 +23,7 @@ dataset
 
 ## 📁 Folder Structure
 
+heart-mlops/
 ├── app/ # FastAPI API
 ├── data/ # Raw or downloaded datasets
 ├── models/ # Saved model artifacts (.pkl)
