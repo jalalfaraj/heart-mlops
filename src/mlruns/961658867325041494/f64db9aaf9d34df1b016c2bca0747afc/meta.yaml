@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/user/Desktop/Data%20Science%20Projects/Heart%20MLOps/src/mlruns/961658867325041494/f64db9aaf9d34df1b016c2bca0747afc/artifacts
+end_time: 1747854349120
+entry_point_name: ''
+experiment_id: '961658867325041494'
+lifecycle_stage: active
+run_id: f64db9aaf9d34df1b016c2bca0747afc
+run_name: persistent-doe-979
+run_uuid: f64db9aaf9d34df1b016c2bca0747afc
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747854347085
+status: 3
+tags: []
+user_id: user

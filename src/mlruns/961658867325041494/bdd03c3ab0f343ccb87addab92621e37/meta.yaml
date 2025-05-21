@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/user/Desktop/Data%20Science%20Projects/Heart%20MLOps/src/mlruns/961658867325041494/bdd03c3ab0f343ccb87addab92621e37/artifacts
+end_time: 1747773340817
+entry_point_name: ''
+experiment_id: '961658867325041494'
+lifecycle_stage: active
+run_id: bdd03c3ab0f343ccb87addab92621e37
+run_name: nebulous-mare-19
+run_uuid: bdd03c3ab0f343ccb87addab92621e37
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747773338479
+status: 3
+tags: []
+user_id: user
