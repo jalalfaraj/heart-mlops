@@ -4,6 +4,8 @@
 
 This project predicts heart disease using a production-grade MLOps stack. It includes model training, API deployment, interactive UI, and experiment tracking — all containerized and CI-enabled.
 
+🌐 **Live Demo:** [View App on Streamlit](https://YOUR-APP-URL.streamlit.app)
+
 ---
 
 ## 🚀 Features
