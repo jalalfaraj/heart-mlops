@@ -117,4 +117,4 @@ Feel free to fork, open issues, or suggest improvements!
 ## 🧠 Author
 
 **Jalal Faraj**  
-📫 [LinkedIn](https://www.linkedin.com/in/jalalfaraj) | 🌐 [GitHub](https://github.com/jalalfaraj)
+📫 [LinkedIn](https://www.linkedin.com/in/jalalfaraj)
