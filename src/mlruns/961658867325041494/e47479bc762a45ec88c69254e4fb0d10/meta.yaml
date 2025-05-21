@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/user/Desktop/Data%20Science%20Projects/Heart%20MLOps/src/mlruns/961658867325041494/e47479bc762a45ec88c69254e4fb0d10/artifacts
+end_time: 1747857453479
+entry_point_name: ''
+experiment_id: '961658867325041494'
+lifecycle_stage: active
+run_id: e47479bc762a45ec88c69254e4fb0d10
+run_name: righteous-cod-207
+run_uuid: e47479bc762a45ec88c69254e4fb0d10
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747857450633
+status: 3
+tags: []
+user_id: user
